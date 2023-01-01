@@ -1,0 +1,13 @@
+
+
+java:S1192/"{Define a constant instead of duplicating this literal "----------------------------------------------------------" 3 times.(öÙÉ©øÿÿÿÿ8Í¬¬«Ö0
+d
+java:S11922"GDefine a constant instead of duplicating this literal "      " 3 times.(Ş…×Ù8ËôüªÖ0
+e
+java:S11922"HDefine a constant instead of duplicating this literal "|      " 3 times.(Ş…×Ù8ô„¶«Ö0
+f
+java:S3655"PCall "Optional#isPresent()" or "!Optional#isEmpty()" before accessing the value.(€ô•ò
+M
+java:S1128"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8–è««Ö0
+K
+java:S1128".Remove this unused import 'java.util.Objects'.(¼¸õ›8–è««Ö0
